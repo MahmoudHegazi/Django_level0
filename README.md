@@ -1,5 +1,5 @@
 # Django_level0
-copywrite : javatpoint.com
+copywrite : https://www.javatpoint.com/django-crud-application
 
 ### django CRUD
 ### django is easy
